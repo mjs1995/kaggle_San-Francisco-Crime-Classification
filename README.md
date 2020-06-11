@@ -1,9 +1,15 @@
 # kaggle_San-Francisco-Crime-Classification
+
 캐글 데이터 분석_샌프란시스코 범죄 분류
-![Uploading img (2).png…]()
+
+![img (2)](https://user-images.githubusercontent.com/47103479/84406869-14ce3280-ac45-11ea-9a9e-dc4d1af7d784.png)
+
 ![img (1)](https://user-images.githubusercontent.com/47103479/84406908-1d266d80-ac45-11ea-9629-9c2b997e9b68.png)
+
 ![img](https://user-images.githubusercontent.com/47103479/84406930-26173f00-ac45-11ea-997c-bd52b2c16e77.png)
+
 ![img (4)](https://user-images.githubusercontent.com/47103479/84407072-5068fc80-ac45-11ea-9354-16079ef1f244.png)
+
 제출 결과  multi-class logarithmic loss score 2.34074로 72등에 위치하고 상위 4% 안에 들었습니다.
 
 모델을 만들고 하이퍼 파라미터 튜닝을 Bayesian Optimization으로 해주면 모델의 성능을 더 높일수 있을거 같습니다.
